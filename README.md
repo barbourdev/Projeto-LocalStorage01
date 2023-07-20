@@ -1,5 +1,4 @@
-# Projeto prático sobre ->
-# localStorage:
+# Projeto prático sobre -> localStorage
 
 - ***************************************localStorage,*************************************** é um recurso para **************************************************salvar dados no navegador**************************************************, que persiste até mesmo após o recarregamento da página ou ao fechar a aba;
 - Os dados armazenados no **localStorage** não expiram e permanecerão enquanto o usuário **não limpar o cache do navegador.**
