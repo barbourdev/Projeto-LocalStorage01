@@ -2,7 +2,7 @@
 
 - ***************************************localStorage,*************************************** é um recurso para **************************************************salvar dados no navegador**************************************************, que persiste até mesmo após o recarregamento da página ou ao fechar a aba;
 - Os dados armazenados no **localStorage** não expiram e permanecerão enquanto o usuário **não limpar o cache do navegador.**
-- Tem a capacidade máxima de ****************************10 MegaByte (mb)**************************** como iremos salvar apenas textos, é bastante coisa;
+- Tem a capacidade máxima de ****************************10 MegaByte (mb)**************************** como podemos salvar apenas textos, é bastante coisa;
 - Esses dados são salvos no próprio computador do usuário, ou seja, precisamos ter cuidado com o que colocamos lá, pois o usuário pode acessar os dados que nele estão.
 - Eles **************************************************************não possuem tempo de expiração,************************************************************** mas podem ser removidos;
 - Os dados ficam na **********aba Application********** do Dev Tools (Console do Navegador);
